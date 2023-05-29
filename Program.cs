@@ -123,3 +123,4 @@ void PrintArray(double[] numbers_)
     Console.Write("]");
     Console.WriteLine();
 }
+//1 и 2 задача работает вот 3 нет(
